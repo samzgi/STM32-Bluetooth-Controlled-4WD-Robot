@@ -17,5 +17,3 @@ The L298N drivers provide the interface between STM32 GPIO control signals and t
 ## Power
 
 The documented power architecture uses a 12 V battery pack as the main source and an LM2596 regulator to provide a lower regulated voltage for the STM32 and Bluetooth electronics.
-
-> Pin assignments and wiring diagrams should be added here when the original project hardware files are available.
